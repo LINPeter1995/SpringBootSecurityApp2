@@ -24,4 +24,4 @@ http://localhost:8080/home
 
 可選Admin或Staff
 
-Select your role Admin/Staff
+Select your role - Admin or Staff
